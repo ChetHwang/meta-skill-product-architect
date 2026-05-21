@@ -1,0 +1,66 @@
+---
+name: introduce-{{PRODUCT_NAME_SLUG}}
+description: 为{{PRODUCT_NAME}}生成不同场景的介绍材料。
+agent_created: true
+---
+
+# 介绍{{PRODUCT_NAME}}
+
+## 概述
+
+使用这个 skill，为{{PRODUCT_NAME}}稳定地产出不同场景、不同受众、不同形式的介绍材料。
+
+{{CORE_DESCRIPTION_PARAGRAPH}}
+
+## 工作流程
+
+1. 先读 [references/product-brief.md](references/product-brief.md)。
+2. 当用户指定材料类型或目标受众时，再读 [references/output-recipes.md](references/output-recipes.md)。
+3. 当需要更深层的方法论支撑时，再读 [references/foundational-logic.md](references/foundational-logic.md)。
+4. 当涉及具体内容案例或产品展示时，再读 [references/materials-guide.md](references/materials-guide.md)。
+5. 当涉及品牌素材调用时，再读 [references/brand-assets.md](references/brand-assets.md)。
+6. 当涉及视觉排版或设计方向时，再读 [references/visual-direction.md](references/visual-direction.md)。
+7. 如果用户没有明确说明目标受众和产出目的，自行推断。
+8. 默认按照下方"核心信息顺序"组织内容。
+9. 根据输出场景调整信息密度、语气和行动引导。
+
+## 核心信息顺序
+
+除非用户只要一个非常局部的结果，否则优先按这个顺序组织：
+
+1. 它是什么
+2. 它包含什么内容
+3. 它为什么在今天重要
+4. 它在解决什么问题
+5. 它为{{TARGET_AUDIENCE}}创造什么价值
+6. 它和同类产品有什么不同
+
+## 不可丢失的事实
+
+以下信息在不同输出里都应保持稳定：
+
+{{IRREPLACEABLE_FACTS}}
+
+## 输出侧重点
+
+根据场景调整强调点：
+
+{{OUTPUT_EMPHASIS}}
+
+## 边界与约束
+
+{{BOUNDARIES_AND_CONSTRAINTS}}
+
+## 风格要求
+
+{{STYLE_REQUIREMENTS}}
+
+## 资源
+
+- [references/product-brief.md](references/product-brief.md)：产品定位与内容总纲
+- [references/output-recipes.md](references/output-recipes.md)：不同产出类型的推荐结构
+- [references/foundational-logic.md](references/foundational-logic.md)：产品背后的方法论逻辑
+- [references/materials-guide.md](references/materials-guide.md)：素材使用说明
+- [references/brand-assets.md](references/brand-assets.md)：品牌资产及使用说明
+- [references/visual-direction.md](references/visual-direction.md)：视觉方向指南
+- [assets/](assets/)：产品素材与品牌文件

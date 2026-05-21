@@ -1,0 +1,4 @@
+interface:
+  display_name: "Meta-Skill Product Architect"
+  short_description: "为任意产品生成标准化介绍 Skill 的元技能。"
+  default_prompt: "分析用户提供的产品素材，按照标准架构（L0-L6）生成一个完整的 introduce-{product-name} 产品介绍 Skill。"

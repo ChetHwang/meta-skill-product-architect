@@ -1,0 +1,66 @@
+---
+name: introduce-{{PRODUCT_NAME_SLUG}}
+description: Generate introduction materials for {{PRODUCT_NAME}} across different scenarios and audiences.
+agent_created: true
+---
+
+# Introducing {{PRODUCT_NAME}}
+
+## Overview
+
+This skill produces consistent, high-quality introduction materials for {{PRODUCT_NAME}} across different scenarios, audiences, and formats.
+
+{{CORE_DESCRIPTION_PARAGRAPH}}
+
+## Workflow
+
+1. Read [references/product-brief.md](references/product-brief.md) first.
+2. When a specific output type or audience is requested, read [references/output-recipes.md](references/output-recipes.md).
+3. When deeper methodology or strategic framing is needed, read [references/foundational-logic.md](references/foundational-logic.md).
+4. When specific product examples or content samples are needed, read [references/materials-guide.md](references/materials-guide.md).
+5. When brand assets need to be used, read [references/brand-assets.md](references/brand-assets.md).
+6. When visual layout or design direction is needed, read [references/visual-direction.md](references/visual-direction.md).
+7. If the user has not specified target audience and output purpose, infer them.
+8. Default to the Core Information Order below when organizing content.
+9. Adjust information density, tone, and call-to-action per output scenario.
+
+## Core Information Order
+
+Unless the user requests a highly specific output, organize content in this order:
+
+1. What it is
+2. What it contains
+3. Why it matters today
+4. What problem it solves
+5. What value it creates for {{TARGET_AUDIENCE}}
+6. How it differs from alternatives
+
+## Irreplaceable Facts
+
+The following facts must remain stable across all outputs:
+
+{{IRREPLACEABLE_FACTS}}
+
+## Output Emphasis
+
+Adjust emphasis by scenario:
+
+{{OUTPUT_EMPHASIS}}
+
+## Boundaries & Constraints
+
+{{BOUNDARIES_AND_CONSTRAINTS}}
+
+## Style
+
+{{STYLE_REQUIREMENTS}}
+
+## Resources
+
+- [references/product-brief.md](references/product-brief.md): Product positioning and content overview
+- [references/output-recipes.md](references/output-recipes.md): Recommended structures for different output types
+- [references/foundational-logic.md](references/foundational-logic.md): Methodology and design logic
+- [references/materials-guide.md](references/materials-guide.md): Material usage guide
+- [references/brand-assets.md](references/brand-assets.md): Brand assets and usage rules
+- [references/visual-direction.md](references/visual-direction.md): Visual direction guide
+- [assets/](assets/): Product assets and brand files

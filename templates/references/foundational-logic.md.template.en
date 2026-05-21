@@ -1,0 +1,55 @@
+# Foundational Logic
+
+This document supplements the methodology and rationale behind {{PRODUCT_NAME}}.
+
+Read this file when answering:
+
+{{TRIGGER_QUESTIONS}}
+
+## Core Thesis
+
+{{CORE_JUDGMENT}}
+
+## Why It Matters Now in {{CONTEXT}}
+
+{{WHY_IMPORTANT_NOW}}
+
+## Methodology Behind {{PRODUCT_STRUCTURE}}
+
+{{METHODOLOGY_FOR_EACH_MODULE}}
+
+## How This Logic Translates to Product Value
+
+{{VALUE_SUMMARY}}
+
+## High-Level Expressions for External Use
+
+{{HIGH_LEVEL_EXPRESSIONS}}
+
+## Expression Levels
+
+### For Internal / Professional Contexts
+
+{{PROFESSIONAL_EXPRESSIONS}}
+
+### For {{TARGET_AUDIENCE}}
+
+{{CONSUMER_TRANSLATION}}
+
+## Usage Boundaries
+
+{{USAGE_BOUNDARIES}}
+
+## Source Attribution
+
+<!--
+If the methodology above draws on external papers, white papers, research reports, or public frameworks, cite them using this format:
+  - Paper/report title: …
+  - Author / publisher: …
+  - Borrowed concept: … (one line)
+
+If there is no external theoretical backing, write: "Methodology drawn from internal product team thinking; no external academic or research sources."
+Do not leave blank or write "N/A".
+-->
+
+{{SOURCE_DESCRIPTION}}

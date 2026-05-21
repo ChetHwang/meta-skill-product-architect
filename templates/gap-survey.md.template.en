@@ -1,0 +1,109 @@
+# Quick Input Survey — {{PRODUCT_NAME}}
+
+Hi! We're building a structured introduction Skill for **{{PRODUCT_NAME}}** so that anyone (or any AI) can introduce the product consistently across audiences and channels.
+
+We've already auto-collected most of what we need from public materials. We need your help on **{{N_MODULES}} sections** below — just the gaps. Total time: **~10 minutes**.
+
+**A note on phrasing**: Please give us **specific words and sentences**, not summaries. If you'd say it to a friend at dinner, write it down that way. Word-for-word is more useful than polished.
+
+**Deadline**: {{DEADLINE}}
+
+---
+
+<!-- Pick only the modules relevant to the gap. Delete others before sending. -->
+
+## Module A — Identity (L0)
+
+A1. In one sentence, what is {{PRODUCT_NAME}}? Write it as if you were telling a friend, not pitching an investor.
+
+> Your answer:
+
+A2. Who is the single most representative user? Give us one real person (name optional, age + role + situation required).
+
+> Your answer:
+
+---
+
+## Module B — Boundaries (L1)
+
+B1. When people first hear about {{PRODUCT_NAME}}, what do they mistakenly think it is? (List 3-5)
+
+> Your answer:
+
+B2. What's a customer type or use case you intentionally don't serve? Why?
+
+> Your answer:
+
+---
+
+## Module C — Audience Priorities (L1)
+
+For each of your 2-3 main audience types, please fill in:
+
+| Audience type | 3-5 things they care about most | 1 common misconception they hold |
+|---|---|---|
+| | | |
+| | | |
+| | | |
+
+---
+
+## Module D — Brand Expressions (L1) — **Most Valuable to Us**
+
+D1. Quote 3-5 sentences you'd actually use to describe {{PRODUCT_NAME}} — in a tweet, an investor email, or a sales call. **Verbatim, please.** Not "we focus on X" but actual sentences with subjects and verbs.
+
+> 1.
+> 2.
+> 3.
+> 4.
+> 5.
+
+D2. What's a sentence you would NEVER use about {{PRODUCT_NAME}}? (e.g., a superlative you avoid, an industry cliché you find embarrassing)
+
+> Your answer:
+
+---
+
+## Module E — Cadence (L1)
+
+E1. How often does {{PRODUCT_NAME}} update / release / publish? Be specific (e.g., "every Monday 6am" not "regularly"). If it's a one-time release, just say so.
+
+> Your answer:
+
+---
+
+## Module F — Methodology Source (L2)
+
+F1. Is there a framework, research paper, school of thought, or someone else's idea that shaped how {{PRODUCT_NAME}} was designed? Be specific — title + author + what you borrowed.
+
+> Your answer:
+
+F2. If there's no specific external source, what was the internal thinking? (1-2 sentences)
+
+> Your answer:
+
+---
+
+## Module G — Visual Direction (L5)
+
+G1. Three words a designer would use to describe {{PRODUCT_NAME}}'s visual style:
+
+> 1.
+> 2.
+> 3.
+
+G2. One or two colors {{PRODUCT_NAME}} should NEVER use, and why. (The boundary is often more useful than the palette.)
+
+> Your answer:
+
+---
+
+## Module H — Distribution (L1)
+
+H1. List every public URL where someone can find, subscribe to, or buy {{PRODUCT_NAME}}, grouped by platform. (Website, app stores, RSS, podcast platforms, social handles, etc.)
+
+> Your answer:
+
+---
+
+**Thanks!** Reply by {{DEADLINE}}. If anything is unclear or you want to talk through it instead, ping us and we'll do a quick 10-minute call.

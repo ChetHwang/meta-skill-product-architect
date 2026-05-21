@@ -1,0 +1,41 @@
+# 视觉方向
+
+当任务涉及以下类型时，优先参考本文件：
+{{WHEN_TO_USE}}
+
+当需要图像参考时，查看：
+{{VISUAL_REFERENCES}}
+
+## 现有品牌气质
+
+当前视觉语言的关键词是：
+{{VISUAL_KEYWORDS}}
+
+## 核心视觉母题
+
+在合适场景中优先使用这些元素：
+{{CORE_VISUAL_MOTIFS}}
+
+## 色彩方向
+
+最适合延续的配色是：
+{{COLOR_PALETTE}}
+
+避免：
+{{COLORS_TO_AVOID}}
+
+## 字体与版式感受
+
+{{TYPOGRAPHY_GUIDELINES}}
+
+## 适合的版式结构
+
+{{LAYOUT_STRUCTURE}}
+
+## 视觉中的文案处理
+
+{{COPY_TREATMENT}}
+
+## 视觉边界
+
+{{VISUAL_BOUNDARIES}}

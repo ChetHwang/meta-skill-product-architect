@@ -1,0 +1,133 @@
+# {{PRODUCT_NAME}} — Product Brief
+
+## Core Positioning
+
+{{CORE_POSITIONING}}
+
+Its core promises:
+
+{{CORE_PROMISES}}
+
+In the right context, it can be summarized as {{SHORT_TAGLINE}}.
+
+## Boundaries — What This Product Is Not
+
+{{NOT_WHAT_IT_IS_NOT}}
+
+## Why It Matters Today
+
+{{TODAYS_VALUE}}
+
+## What Problem It Solves
+
+The most effective framing:
+
+{{PROBLEM_SOLVED}}
+
+## Long-Term Outcomes for {{TARGET_AUDIENCE}}
+
+{{LONG_TERM_CAPABILITIES}}
+
+## {{PRODUCT_NAME}} — Structure
+
+{{PRODUCT_STRUCTURE_INTRO}}
+
+<!--
+For every module / sub-brand / line, use the three-block structure below.
+Do not collapse multiple modules into a single paragraph.
+  - Positioning: what slot this module occupies, what scenario or capability it serves
+  - Emphasis: what to stress when describing this module to external audiences
+  - Verbatim expressions: 2-4 ready-to-paste full sentences in the brand's voice
+-->
+
+### {{MODULE_1_NAME}}
+
+Positioning:
+
+{{MODULE_1_POSITIONING}}
+
+What to emphasize:
+
+{{MODULE_1_EMPHASIS}}
+
+Verbatim expressions:
+
+{{MODULE_1_VERBATIM_EXPRESSIONS}}
+
+### {{MODULE_2_NAME}}
+
+Positioning:
+
+{{MODULE_2_POSITIONING}}
+
+What to emphasize:
+
+{{MODULE_2_EMPHASIS}}
+
+Verbatim expressions:
+
+{{MODULE_2_VERBATIM_EXPRESSIONS}}
+
+<!--
+Continue with additional modules using the same three-block structure.
+If the product has only one module or no explicit modular breakdown,
+delete the ### subsections above and put a single description into {{PRODUCT_STRUCTURE_INTRO}}.
+-->
+
+## Release Cadence
+
+<!--
+Be specific: "Every Monday at 6am module A, Tue-Thu module B, Fri module C"
+For static products, "Single release — not on a recurring schedule" or "Updated on demand" is acceptable.
+Generic phrases like "regularly updated" do not pass validation.
+-->
+
+{{CADENCE}}
+
+## Usage Patterns
+
+{{USAGE_PATTERN}}
+
+## Recommended Scenarios
+
+{{RECOMMENDED_SCENARIOS}}
+
+## Common Brand Expressions
+
+<!--
+3-5 whole sentences in the brand's actual voice, not concept summaries.
+For time-bound statements (containing numbers, awards, partnerships), add a TTL marker:
+  - "Our community has 50,000 weekly active listeners." <!-- @valid_until=2026-Q4 @owner=marketing -->
+  - "Featured in TechCrunch's 'Top 10 Family Podcasts' list." <!-- @valid_until=2027-05 -->
+Evergreen statements (core positioning, philosophy) do not need markers.
+-->
+
+{{BRAND_EXPRESSIONS}}
+
+## Audience Focus
+
+### For {{PRIMARY_AUDIENCE}}
+
+{{PRIMARY_AUDIENCE_FOCUS}}
+
+### For {{SECONDARY_AUDIENCE}}
+
+{{SECONDARY_AUDIENCE_FOCUS}}
+
+### For {{TERTIARY_AUDIENCE}}
+
+{{TERTIARY_AUDIENCE_FOCUS}}
+
+## Talking Points (High-Level Messaging)
+
+{{HIGH_LEVEL_EXPRESSIONS}}
+
+## Distribution / Access Points
+
+<!--
+List clickable URLs grouped by platform/channel for each module or sub-brand.
+Do not write "search for us on major platforms" — every entry must be a real URL.
+For internal-only products, write "Internal product — not publicly distributed."
+-->
+
+{{PUBLIC_LINKS}}

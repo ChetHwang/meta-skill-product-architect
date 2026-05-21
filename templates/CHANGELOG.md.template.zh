@@ -1,0 +1,43 @@
+# 变更日志 — introduce-{{PRODUCT_NAME}}
+
+本 Skill 的所有变更遵循 [语义化版本](https://semver.org/lang/zh-CN/) 约定。
+
+## 版本号规则
+
+| 升级类型 | 触发条件 |
+|---|---|
+| **MAJOR**（1.0.0 → 2.0.0） | 核心定位变化；"它不是什么"的边界发生位移；品牌更替；目标受众变化 |
+| **MINOR**（1.0.0 → 1.1.0） | 产品结构新增模块/功能；新增输出 recipe；新增受众类型；新增子品牌 |
+| **PATCH**（1.0.0 → 1.0.1） | 措辞调整；TTL 标记的事实刷新；错别字；新增 verbatim 表达；澄清说明 |
+
+## 维护纪律
+
+- 本 Skill 中任何文件的任何改动，都应在此留下一行记录。
+- 每条记录注明影响的层级（L0 / L1 / L2 / L3 / L4 / L5 / L6）。
+- 任何 TTL 标记的事实被刷新都算 PATCH。
+- 会让旧版对外材料失效的变更（如重命名模块）打上 `[BREAKING]`。
+
+---
+
+## [Unreleased]
+
+### Added
+-
+
+### Changed
+-
+
+### Removed
+-
+
+### Deprecated
+-
+
+---
+
+## [1.0.0] — {{INITIAL_RELEASE_DATE}}
+
+### Added
+- 由 meta-skill-product-architect 初次生成的完整 Skill 骨架
+- L0-L6 七层知识库填充完成
+- 中英双语模板已固化为 {{PRIMARY_LANGUAGE}}

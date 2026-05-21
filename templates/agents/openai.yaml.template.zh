@@ -1,0 +1,4 @@
+interface:
+  display_name: "{{DISPLAY_NAME}}"
+  short_description: "{{SHORT_DESCRIPTION}}"
+  default_prompt: "基于{{PRODUCT_NAME}}的产品定位、内容结构与品牌语气，生成适合指定场景的介绍材料。"

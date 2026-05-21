@@ -1,0 +1,41 @@
+# 品牌资产说明
+
+本文件用于说明{{PRODUCT_NAME}}的品牌资产和适用场景。
+
+当任务涉及以下情况时，优先参考本文件：
+{{WHEN_TO_USE}}
+
+## 资产列表
+
+{{ASSETS_LIST}}
+
+## 使用原则
+
+### {{PRODUCT_NAME}}主品牌
+
+适合用于：
+{{MAIN_BRAND_SCENES}}
+
+承载的意义是：
+{{MAIN_BRAND_MEANING}}
+
+### {{SUB_BRANDS}}（如有）
+
+适合用于：
+{{SUB_BRAND_SCENES}}
+
+## {{BRAND_COUNT}}个品牌标识的关系
+
+{{BRAND_RELATIONSHIP}}
+
+## 风格识别
+
+{{BRAND_STYLE_GUIDE}}
+
+## 组合建议
+
+{{COMBINATION_GUIDELINES}}
+
+## 使用边界
+
+{{USAGE_BOUNDARIES}}

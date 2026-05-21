@@ -1,0 +1,76 @@
+# 输出配方
+
+当用户要求某一类具体介绍材料时，优先参考这里的结构建议。
+
+{{RECIPES}}
+
+## 一页纸介绍
+
+推荐结构：
+1. 一句话定位
+2. {{PRODUCT_NAME}}包含什么内容
+3. 为什么现在重要
+4. 它在解决什么问题
+5. {{TARGET_AUDIENCE}}会获得什么
+
+写法提示：
+{{ONE_PAGER_TIPS}}
+
+## 面向{{PRIMARY_AUDIENCE}}的介绍
+
+推荐结构：
+{{PRIMARY_AUDIENCE_STRUCTURE}}
+
+写法提示：
+{{PRIMARY_AUDIENCE_TIPS}}
+
+## 面向{{SECONDARY_AUDIENCE}}的介绍
+
+推荐结构：
+{{SECONDARY_AUDIENCE_STRUCTURE}}
+
+写法提示：
+{{SECONDARY_AUDIENCE_TIPS}}
+
+## 产品简介 / Profile Blurb
+
+推荐结构：
+{{BLURB_STRUCTURE}}
+
+写法提示：
+{{BLURB_TIPS}}
+
+## 口播 / Spoken Intro
+
+推荐结构：
+{{SPOKEN_STRUCTURE}}
+
+写法提示：
+{{SPOKEN_TIPS}}
+
+## 信息图 / 海报文案
+
+推荐结构：
+{{INFOGRAPHIC_STRUCTURE}}
+
+写法提示：
+{{INFOGRAPHIC_TIPS}}
+
+## 社交媒体文案
+
+推荐结构：
+{{SOCIAL_MEDIA_STRUCTURE}}
+
+写法提示：
+{{SOCIAL_MEDIA_TIPS}}
+
+## {{PROFESSIONAL_SCENE}}版介绍
+
+适用于：
+{{PROFESSIONAL_SCENE_USES}}
+
+推荐结构：
+{{PROFESSIONAL_STRUCTURE}}
+
+写法提示：
+{{PROFESSIONAL_TIPS}}

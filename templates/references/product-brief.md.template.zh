@@ -1,0 +1,131 @@
+# {{PRODUCT_NAME}}产品总纲
+
+## 核心定位
+
+{{CORE_POSITIONING}}
+
+它的核心承诺是：
+
+{{CORE_PROMISES}}
+
+在合适的场景里，可以把它概括为{{SHORT_TAGLINE}}。
+
+## 它不是什么
+
+{{NOT_WHAT_IT_IS_NOT}}
+
+## 它在今天的价值
+
+{{TODAYS_VALUE}}
+
+## 它在解决什么问题
+
+最稳定、最有力的表达框架是：
+
+{{PROBLEM_SOLVED}}
+
+## 它在帮助{{TARGET_AUDIENCE}}长出的长期能力
+
+{{LONG_TERM_CAPABILITIES}}
+
+## {{PRODUCT_NAME}}的结构
+
+{{PRODUCT_STRUCTURE_INTRO}}
+
+<!--
+对每一个模块 / 子品牌 / 栏目，必须按下面三段式描述。不要把多个模块压成一段：
+  - 节目定位：它在整体产品中占据什么位置、对应什么用户场景或能力
+  - 描述这一模块时的重点：当对外介绍时，应当强调它帮助受众做到什么
+  - 可用表达：2-4 条品牌原话语调的整句表达，可直接复用到对外文案
+-->
+
+### {{MODULE_1_NAME}}
+
+模块定位：
+
+{{MODULE_1_POSITIONING}}
+
+描述这一模块时的重点：
+
+{{MODULE_1_EMPHASIS}}
+
+可用表达：
+
+{{MODULE_1_VERBATIM_EXPRESSIONS}}
+
+### {{MODULE_2_NAME}}
+
+模块定位：
+
+{{MODULE_2_POSITIONING}}
+
+描述这一模块时的重点：
+
+{{MODULE_2_EMPHASIS}}
+
+可用表达：
+
+{{MODULE_2_VERBATIM_EXPRESSIONS}}
+
+<!--
+更多模块按相同三段式继续展开。如果产品只有 1 个模块或没有显式模块结构，
+请删除上面的 ### 子节，并将单一描述放回 {{PRODUCT_STRUCTURE_INTRO}}。
+-->
+
+## 更新节奏 / 发布时间表
+
+<!--
+具体到"周一/周二-周四/周五早 6:00"这种颗粒度。
+对静态产品（一次性发行）说明"非循环更新"或"按需更新"也算合格。
+不接受"定期更新"这种空表达。
+-->
+
+{{CADENCE}}
+
+## 使用方式
+
+{{USAGE_PATTERN}}
+
+## 推荐使用场景
+
+{{RECOMMENDED_SCENARIOS}}
+
+## 常用品牌表达
+
+<!--
+3-5 条整句的品牌原话，不是概念摘要。
+对带时效的表达（含数据、奖项、合作方等），加 TTL 标记：
+  - "我们的社区每周有 5 万活跃听众。" <!-- @valid_until=2026-Q4 @owner=marketing -->
+  - "曾入选 TechCrunch'十大家庭播客'榜单。" <!-- @valid_until=2027-05 -->
+不带时效的（核心定位、产品哲学）不需要标记。
+-->
+
+{{BRAND_EXPRESSIONS}}
+
+## 受众侧重点
+
+### 面向{{PRIMARY_AUDIENCE}}
+
+{{PRIMARY_AUDIENCE_FOCUS}}
+
+### 面向{{SECONDARY_AUDIENCE}}
+
+{{SECONDARY_AUDIENCE_FOCUS}}
+
+### 面向{{TERTIARY_AUDIENCE}}
+
+{{TERTIARY_AUDIENCE_FOCUS}}
+
+## 对外高层表达
+
+{{HIGH_LEVEL_EXPRESSIONS}}
+
+## 公开链接 / 分发渠道
+
+<!--
+按平台分组列出每个模块/子品牌对应的可访问 URL。
+不要写"在各大平台搜索 XXX"。每条必须是可点击的具体地址。
+对没有公开链接的内部产品，写"内部产品，不对外分发"。
+-->
+
+{{PUBLIC_LINKS}}

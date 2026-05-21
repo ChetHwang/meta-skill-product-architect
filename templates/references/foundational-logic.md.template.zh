@@ -1,0 +1,57 @@
+# 底层方法论逻辑
+
+本文件用于补充{{PRODUCT_NAME}}背后的方法论逻辑。
+
+当任务需要回答以下问题时，优先读取本文件：
+
+{{TRIGGER_QUESTIONS}}
+
+## 核心判断
+
+{{CORE_JUDGMENT}}
+
+## 为什么在{{CONTEXT}}下特别关键
+
+{{WHY_IMPORTANT_NOW}}
+
+## {{PRODUCT_STRUCTURE}}背后的方法论
+
+{{METHODOLOGY_FOR_EACH_MODULE}}
+
+## 这套逻辑如何转化为产品价值
+
+基于以上方法论，可以把产品价值概括为：
+
+{{VALUE_SUMMARY}}
+
+## 对外表达时可直接使用的高层概括
+
+{{HIGH_LEVEL_EXPRESSIONS}}
+
+## 表达层级说明
+
+### 对内部/专业场景
+
+{{PROFESSIONAL_EXPRESSIONS}}
+
+### 对{{TARGET_AUDIENCE}}
+
+{{CONSUMER_TRANSLATION}}
+
+## 使用边界
+
+{{USAGE_BOUNDARIES}}
+
+## 来源说明
+
+<!--
+如果本文件中的方法论参考了外部论文、白皮书、研究报告或公开框架，按下面格式标注：
+  - 论文/报告题名：……
+  - 作者 / 出处：……
+  - 借鉴的核心概念：……（一句话）
+
+如果没有外部理论支撑，直接写"本文件由产品团队内部方法论整理，无外部学术或研究报告来源。"
+不接受空着或写"略"。
+-->
+
+{{SOURCE_DESCRIPTION}}

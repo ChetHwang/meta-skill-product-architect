@@ -1,0 +1,4 @@
+interface:
+  display_name: "{{DISPLAY_NAME}}"
+  short_description: "{{SHORT_DESCRIPTION}}"
+  default_prompt: "Generate introduction materials for {{PRODUCT_NAME}} based on its positioning, structure, and brand voice — tailored to the requested scenario."

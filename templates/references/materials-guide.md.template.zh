@@ -1,0 +1,30 @@
+# 素材说明
+
+本文件用于说明如何使用 Skill 中的产品素材。
+
+当任务涉及以下情况时，优先参考本文件：
+{{WHEN_TO_USE}}
+
+## 资产位置
+
+{{ASSET_LOCATIONS}}
+
+## 使用原则
+
+这些资料用于：
+{{DO_USE}}
+
+这些资料不应用于：
+{{DONT_USE}}
+
+## 搜索建议
+
+{{SEARCH_SUGGESTIONS}}
+
+## 在介绍材料中的推荐用法
+
+{{RECOMMENDED_USAGE}}
+
+## 边界与约束
+
+{{BOUNDARIES}}
